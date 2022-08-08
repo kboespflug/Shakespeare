@@ -9,13 +9,13 @@
 
     "collections": [
         {
-            "@id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/sub1",
+            "@id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/sub1.json",
             "@type": "sc:Collection",
             "label": "Sub-Collection 1",
 
         "members": [
             {
-                "id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/part1",
+                "id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/part1.json",
                 "@type":"sc:Collection",
                 "label": "Pictures of Stratford-upon-Avon",
              },
