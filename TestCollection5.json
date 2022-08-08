@@ -18,18 +18,17 @@
                 "id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/part1",
                 "@type":"sc:Collection",
                 "label": "Pictures of Stratford-upon-Avon",
-                "viewingHint": "multi-part"
-            },
+             },
             {
                 "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
                 "@type": "sc:Manifest",
                 "label": "Shakespeare's birth-place",
             },
             {
-                "@id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/part2",
-                "@type": "sc:Collection",
-                "label": "My Sub Collection",
-                "viewingHint": "individuals"
+                "@id": "https://media.getty.edu/iiif/manifest/92ae7c48-992b-4a4b-8e6c-22a522ce5be2",
+                "@type": "sc:Manifest",
+                "label": "Mary Arden Cottage",
+                
             }
         ]
     },
