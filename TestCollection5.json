@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://github.com/kboespflug/Shakespeare/edit/main/TestCollection5/top",
+    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/TestCollection5.json",
     "@type": "sc:Collection",
     "label": "Shakespeare Main Collection Top Level",
     "viewingHint": "top",
