@@ -41,8 +41,8 @@
             "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
             "@type": "sc:Manifest",
             "label": "Plan of Shakespeare's birth-place",
-            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
-        ,}
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail",
+        },
         {
             "@id": "https://iiif.unige.ch/manifest/IIIFManifest_1072056515.json",
             "@type": "sc:Manifest",
