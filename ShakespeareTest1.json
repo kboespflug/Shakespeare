@@ -119,7 +119,7 @@
             "@type": "sc:Manifest",
             "label": "Vorlesungen über Shakespeare's Macbeth",
             "thumbnail": "https://www.e-rara.ch/zuz/i3f/v21/20144390/full/304/0/default.jpg"
-        }
+        },
         {
             "@id": "https://www.dl.ndl.go.jp/api/iiif/1232375/manifest.json",
             "@type": "sc:Manifest",
