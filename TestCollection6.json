@@ -21,6 +21,12 @@
             "@type": "sc:Manifest",
             "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783.",
             "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg"
+        },
+         {
+            "@id": "https://www.digitalcommonwealth.org/search/commonwealth:0r96fn89v/manifest",
+            "@type": "sc:Manifest",
+            "label": "Plan of Shakespeare's birth-place",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
         }
     ]
 }
