@@ -1,8 +1,8 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://detektiiif.manducus.net/invalide",
+    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/ShakespeareTest1.json",
     "@type": "sc:Collection",
-    "label": "detektIIIF2 Collection",
+    "label": "ShakespeareCollectionTest1 sorted",
     "manifests": [
        
        
