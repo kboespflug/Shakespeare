@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/TestCollection5.json",
+    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/TestCollection8.json,
     "@type": "sc:Collection",
     "label": "Shakespeare Main Collection",
     "viewingHint": "top",
