@@ -1,0 +1,32 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "detektIIIF2 Collection",
+    "manifests": [
+        {
+            "@id": "https://www.digitalcommonwealth.org/search/commonwealth:0r96fn89v/manifest",
+            "@type": "sc:Manifest",
+            "label": "Plan of Shakespeare's birth-place",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/6ed1c04d-588b-46e8-ad25-9dc9a66305b5",
+            "@type": "sc:Manifest",
+            "label": "Guild Chapel and Vestiges of New Place, Stratford on Avon",
+            "thumbnail": "https://media.getty.edu/iiif/image/7fa8deef-d5e5-428b-a7eb-386ab987e7d0/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/cc59d119-6210-485d-9b5a-7fdf86df5d21",
+            "@type": "sc:Manifest",
+            "label": "Shakespeare's Monument, Stratford on Avon Church",
+            "thumbnail": "https://media.getty.edu/iiif/image/ee327575-6df0-456b-beac-2c351898b788/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/92ae7c48-992b-4a4b-8e6c-22a522ce5be2",
+            "@type": "sc:Manifest",
+            "label": "Mary Arden's Cottage",
+            "thumbnail": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/!600,600/0/default.jpg"
+        }
+    ]
+}
