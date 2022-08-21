@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/TestCollection6.json",
     "@type": "sc:Collection",
-    "label": "TestCollection6 Shakespeare,
+    "label": "TestCollection6 Shakespeare",
     "manifests": [
         {
             "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056663076.0x000001/manifest.json",
