@@ -53,8 +53,6 @@
             "label": "Oeuvres de William Shakespeare",
             "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b2200207x.thumbnail"
         },
-        
-        
         {
             "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
             "@type": "sc:Manifest",
