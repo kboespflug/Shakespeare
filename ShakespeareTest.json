@@ -48,10 +48,10 @@
             "thumbnail": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN1029924031:00000001/full/96,/0/default.jpg"
         },
         {
-            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b2200207x/manifest.json",
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k34133491/manifest.json",
             "@type": "sc:Manifest",
             "label": "Oeuvres de William Shakespeare",
-            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b2200207x.thumbnail"
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k34133491.thumbnail"
         },
         {
             "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
@@ -84,10 +84,10 @@
             "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg"
         },
         {
-            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k34133491/manifest.json",
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b2200207x/manifest.json",
             "@type": "sc:Manifest",
-            "label": "Illustration de Roméo et Juliette",
-            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k34133491.thumbnail"
+            "label": "Illustrations de Roméo et Juliette",
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b2200207x.thumbnail"
         },
         {
             "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~307126~90077063/manifest",
