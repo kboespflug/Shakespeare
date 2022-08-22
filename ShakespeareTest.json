@@ -54,12 +54,6 @@
             "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k34133491.thumbnail"
         },
         {
-            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
-            "@type": "sc:Manifest",
-            "label": "Plan of Shakespeare's birth-place",
-            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
-        },
-        {
             "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/B010/manifest.json",
             "@type": "sc:Manifest",
             "label": "Martin Harvey in Hamlet『ハムレット』",
@@ -112,6 +106,12 @@
             "@type": "sc:Manifest",
             "label": "Shakespeare’s birthplace",
             "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/thumbnail"
+        },
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
+            "@type": "sc:Manifest",
+            "label": "Plan of Shakespeare's birth-place",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
         },
         {
             "@id": "https://www.e-rara.ch/i3f/v20/20144384/manifest",
