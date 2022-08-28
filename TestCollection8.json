@@ -29,13 +29,13 @@
             {
                 "@id": "https://media.getty.edu/iiif/manifest/6ed1c04d-588b-46e8-ad25-9dc9a66305b5",
                 "@type": "sc:Manifest",
-                "label": "Guild Chapel and Vestiges of New Place, Stratford on Avon",
+                "label": "Guild Chapel and Vestiges of New Place, Stratford on Avon"
             },
             {
                 "@id": "https://media.getty.edu/iiif/manifest/cc59d119-6210-485d-9b5a-7fdf86df5d21",
                 "@type": "sc:Manifest",
                 "label": "Shakespeare's Monument, Stratford on Avon Church"
-            },
+            }
         ]
     }
 ],
@@ -121,7 +121,7 @@
             "@type": "sc:Manifest",
             "label": "Shakespeare's Monument, Stratford on Avon Church",
             "thumbnail": "https://media.getty.edu/iiif/image/ee327575-6df0-456b-beac-2c351898b788/full/!600,600/0/default.jpg"
-        },
+        }
        
     ]
 }
